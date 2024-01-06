@@ -109,7 +109,7 @@
             <div class="grid gap-8 lg:grid-cols-3 justify-center">
                 <article
                     class="p-6 bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-                    <a href="#">
+                    <a href="/blog/1">
                         <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/blog/office-laptops.png" alt=""
                             class="mb-4 rounded-lg">
                     </a>
@@ -126,7 +126,8 @@
                         </span>
                         <span class="text-sm">14 days ago</span>
                     </div>
-                    <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a href="#">How to
+                    <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><a
+                            href="/blog/1">How to
                             quickly deploy a static website</a></h2>
                     <p class="mb-5 font-light text-gray-500 dark:text-gray-400">Static websites are now used to
                         bootstrap lots of websites and are becoming the basis for a variety of tools that even influence
@@ -140,7 +141,7 @@
                                 Jese Leos
                             </span>
                         </div>
-                        <a href="#"
+                        <a href="/blog/1"
                             class="inline-flex items-center font-medium text-primary-600 dark:text-primary-500 hover:underline">
                             Read more
                             <svg class="ml-2 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
@@ -160,10 +161,6 @@
     <footer class="bg-gray-50 dark:bg-gray-800 antialiased">
         <div class="p-4 py-6 mx-auto max-w-screen-xl md:p-8 lg:p-10">
             <div class="text-center">
-                <a href="#"
-                    class="flex justify-center items-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
-                    <span class="text-2xl text-normal"><span class="font-bold">Lara</span>Blog</span>
-                </a>
                 <span class="block text-sm text-center text-gray-500 dark:text-gray-400">© 2024 <a href="#"
                         class="hover:underline">LaraBlog&#8482;</a>. All Rights Reserved.
                 </span>

@@ -20,3 +20,15 @@ Route::get('/', function () {
 Route::get('/blog', function () {
     return view('blog');
 });
+
+Route::get('/blog/{id}', function ($id) {
+    return view('blog-detail', ['id' => $id]);
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
